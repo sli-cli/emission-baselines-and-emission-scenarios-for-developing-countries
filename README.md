@@ -15,8 +15,3 @@ This project includes two main files for data analysis and modeling. The first f
    - It includes future emission projections based on different scenarios.
    - The results from the models are analyzed and compared with actual data to highlight discrepancies and insights.
 
-## Installation Instructions
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/your-repository.git
